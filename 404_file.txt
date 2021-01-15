@@ -7,7 +7,7 @@
     <style>
 
         * {
-            line-height: 1.4;
+            line-height: 1.2;
             margin: 0;
         }
 
@@ -45,7 +45,7 @@
 
             h1 {
                 font-size: 1.5em;
-                margin: 20 20 20.3em;
+                margin: 0 0 0.3em;
             }
 
         }
@@ -53,8 +53,6 @@
     </style>
 </head>
 <body>
-    <h1>Page is here Not Found</h1>
-    <p>Sorry, but the page you were trying to view does not exist.</p>
 </body>
 </html>
 <!-- IE needs 512+ bytes: http://blogs.msdn.com/b/ieinternals/archive/2010/08/19/http-error-pages-in-internet-explorer.aspx -->
