@@ -1,6 +1,7 @@
 # www.robotstxt.org/
-
-# Allow crawling of all content
+# Add a line here by kedhar
+# Allow crawling of all content by kedhar
 User-agent: *
 Disallow:Everything
 Changes being made to test
+kedharit is
